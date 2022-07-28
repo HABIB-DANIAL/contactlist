@@ -1,16 +1,12 @@
 # contact_list
 
-A new Flutter project.
+Contact List App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Plugins Used :
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. get_storage : used for storage
+2. intl : used for datetime formating
+3. timeago_flutter : used for "time ago" format
+4. share_plus : used for sharing contact data to installed apps
